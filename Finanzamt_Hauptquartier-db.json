@@ -93,6 +93,12 @@
         "automod_settings": {
             "anti_link": false,
             "anti_spam": true
+        },
+        "1465398053396545710": {
+            "balance": 1,
+            "xp": 15,
+            "level": 1,
+            "warns": 0
         }
     }
 }
