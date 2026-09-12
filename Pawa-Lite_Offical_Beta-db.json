@@ -1,8 +1,8 @@
 {
     "1526998418134925383": {
         "1216316535006691348": {
-            "balance": 39,
-            "xp": 92,
+            "balance": 40,
+            "xp": 106,
             "level": 3,
             "warns": 2
         },
@@ -35,6 +35,10 @@
             "xp": 28,
             "level": 1,
             "warns": 0
+        },
+        "automod_settings": {
+            "anti_link": true,
+            "anti_spam": true
         }
     }
 }
