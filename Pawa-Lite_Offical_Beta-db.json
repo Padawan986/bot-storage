@@ -1,14 +1,14 @@
 {
     "1526998418134925383": {
         "1216316535006691348": {
-            "balance": 45,
-            "xp": 168,
+            "balance": 47,
+            "xp": 188,
             "level": 3,
             "warns": 2
         },
         "1532396219282882630": {
-            "balance": 20,
-            "xp": 95,
+            "balance": 22,
+            "xp": 114,
             "level": 2,
             "warns": 0
         },
@@ -31,14 +31,20 @@
             "warns": 0
         },
         "885854229388992532": {
-            "balance": 5,
-            "xp": 59,
+            "balance": 7,
+            "xp": 77,
             "level": 1,
             "warns": 0
         },
         "automod_settings": {
             "anti_link": true,
             "anti_spam": true
+        },
+        "1217553163414929448": {
+            "balance": 1,
+            "xp": 11,
+            "level": 1,
+            "warns": 0
         }
     }
 }
