@@ -47,7 +47,7 @@
             "warns": 0
         },
         "joinleave_settings": {
-            "enabled": false,
+            "enabled": true,
             "channel_id": "1546903894611857428"
         }
     }
