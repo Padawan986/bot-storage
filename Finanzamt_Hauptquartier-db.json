@@ -127,6 +127,12 @@
         "joinleave_settings": {
             "enabled": true,
             "channel_id": "1528072028744192012"
+        },
+        "1398327431949058069": {
+            "balance": 1,
+            "xp": 9,
+            "level": 1,
+            "warns": 0
         }
     }
 }
