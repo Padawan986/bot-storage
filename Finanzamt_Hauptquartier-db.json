@@ -19,8 +19,8 @@
             "warns": 4
         },
         "973901627188707408": {
-            "balance": 169,
-            "xp": 171,
+            "balance": 172,
+            "xp": 199,
             "level": 6,
             "warns": 0
         },
@@ -55,8 +55,8 @@
             "warns": 0
         },
         "1271939306562523137": {
-            "balance": 40,
-            "xp": 113,
+            "balance": 44,
+            "xp": 155,
             "level": 3,
             "warns": 0
         },
@@ -119,9 +119,9 @@
             "warns": 0
         },
         "1035949201542094878": {
-            "balance": 7,
-            "xp": 81,
-            "level": 1,
+            "balance": 10,
+            "xp": 18,
+            "level": 2,
             "warns": 0
         },
         "joinleave_settings": {
