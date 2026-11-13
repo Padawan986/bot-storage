@@ -1,45 +1,45 @@
 {
     "1528072027359936666": {
         "1216316535006691348": {
-            "balance": 179,
-            "xp": 289,
-            "level": 6,
+            "balance": 920,
+            "xp": 396,
+            "level": 8,
             "warns": 0
         },
         "1391471707901923460": {
-            "balance": 58,
-            "xp": 292,
-            "level": 3,
+            "balance": 130,
+            "xp": 286,
+            "level": 5,
             "warns": 2
         },
         "1388418468801544235": {
-            "balance": 83,
-            "xp": 213,
+            "balance": 87,
+            "xp": 253,
             "level": 4,
             "warns": 4
         },
         "973901627188707408": {
-            "balance": 156,
-            "xp": 42,
+            "balance": 177,
+            "xp": 250,
             "level": 6,
             "warns": 0
         },
         "1298321401207328963": {
-            "balance": 27,
-            "xp": 160,
+            "balance": 29,
+            "xp": 185,
             "level": 2,
             "warns": 0
         },
         "1346157283662626816": {
-            "balance": 16,
-            "xp": 53,
+            "balance": 19,
+            "xp": 86,
             "level": 2,
-            "warns": 0
+            "warns": 1
         },
         "1254126164981715027": {
-            "balance": 56,
-            "xp": 259,
-            "level": 3,
+            "balance": 122,
+            "xp": 211,
+            "level": 5,
             "warns": 0
         },
         "1371040599435903100": {
@@ -49,32 +49,32 @@
             "warns": 0
         },
         "1040153676817383424": {
+            "balance": 11,
+            "xp": 0,
+            "level": 2,
+            "warns": 0
+        },
+        "1271939306562523137": {
+            "balance": 138,
+            "xp": 413,
+            "level": 5,
+            "warns": 1
+        },
+        "1304449108177588286": {
             "balance": 6,
             "xp": 56,
             "level": 1,
             "warns": 0
         },
-        "1271939306562523137": {
-            "balance": 28,
-            "xp": 184,
-            "level": 2,
-            "warns": 0
-        },
-        "1304449108177588286": {
-            "balance": 4,
-            "xp": 39,
-            "level": 1,
-            "warns": 0
-        },
         "1531345799160664154": {
-            "balance": 2,
-            "xp": 25,
+            "balance": 7,
+            "xp": 64,
             "level": 1,
             "warns": 0
         },
         "1041373042108006500": {
-            "balance": 14,
-            "xp": 22,
+            "balance": 29,
+            "xp": 199,
             "level": 2,
             "warns": 0
         },
@@ -92,7 +92,7 @@
         },
         "automod_settings": {
             "anti_link": false,
-            "anti_spam": true
+            "anti_spam": false
         },
         "1465398053396545710": {
             "balance": 1,
@@ -109,6 +109,34 @@
         "1398430229172850789": {
             "balance": 2,
             "xp": 24,
+            "level": 1,
+            "warns": 0
+        },
+        "1370723426158776352": {
+            "balance": 4,
+            "xp": 37,
+            "level": 1,
+            "warns": 0
+        },
+        "1035949201542094878": {
+            "balance": 11,
+            "xp": 33,
+            "level": 2,
+            "warns": 0
+        },
+        "joinleave_settings": {
+            "enabled": true,
+            "channel_id": "1528072028744192012"
+        },
+        "1398327431949058069": {
+            "balance": 1,
+            "xp": 9,
+            "level": 1,
+            "warns": 0
+        },
+        "1052099296079659079": {
+            "balance": 1,
+            "xp": 7,
             "level": 1,
             "warns": 0
         }
